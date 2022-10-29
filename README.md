@@ -1,7 +1,7 @@
 # C-Text-Editor
 
-    C Text Editor inspired by vim editor.
-    Implemented commands:
+C Text Editor inspired by vim editor.
+Implemented commands:
 <ul>
   <li>save - s</li>
   <li>quit - q</li>
